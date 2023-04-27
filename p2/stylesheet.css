@@ -1,0 +1,58 @@
+header{text-align: center;
+    font-family: Arial;
+}
+
+address{text-align: center;
+    font-family: Arial
+}
+
+h1 {text-align: center;
+font-family: Arial;
+}
+
+h4{text-align: center;
+font-family: Arial}
+
+h2{text-align: center;
+font-family: Arial}
+
+.profilePicture {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+
+}
+
+table, th, td {
+margin: auto;
+border: 1px solid;
+}
+
+.computerPicture {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+}
+
+body {
+background-color: lightblue;
+}
+
+
+#pbscYear {
+font-weight: bold;
+}
+
+#insuranceYear {
+font-weight: bold;
+}
+
+#highSchoolYear{
+font-weight: bold;
+}
+
+#professionalInsuranceYear{
+font-weight: bold;
+}
